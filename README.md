@@ -1,4 +1,4 @@
-# spacecontext-app
+# Space Context
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,148 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-spacecontext-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://spacecontext.app/
+Space Context provides a mobile app that converts a two‑minute narrated video walkthrough of any physical space into a visual PDF, an AI Agent Skill, and structured JSON. The service automatically maps rooms, furniture, appliances and condition, creating a permanent, encrypted record for use by property managers, homeowners, offices, real‑estate agencies, insurance claims and AI developers.
+
+**Areas:** Home Inventory · Real Estate · Insurance · AI Agents · Facilities
+
+## Space Context on APIs.io
+
+Everything profiled for Space Context is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/spacecontext-app/](https://apis.io/providers/spacecontext-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [Space Context Agent API](https://apis.io/apis/spacecontext-app/spacecontext-app-agent-api/) — The Agent API from Space Context — 1 operation(s) for agent.
+- [Space Context Auth API](https://apis.io/apis/spacecontext-app/spacecontext-app-auth-api/) — The Auth API from Space Context — 2 operation(s) for auth.
+- [Space Context Capture Profiles API](https://apis.io/apis/spacecontext-app/spacecontext-app-capture-profiles-api/) — The Capture Profiles API from Space Context — 2 operation(s) for capture profiles.
+- [Space Context Frames API](https://apis.io/apis/spacecontext-app/spacecontext-app-frames-api/) — The Frames API from Space Context — 1 operation(s) for frames.
+- [Space Context Me API](https://apis.io/apis/spacecontext-app/spacecontext-app-me-api/) — The Me API from Space Context — 1 operation(s) for me.
+- [Space Context Media API](https://apis.io/apis/spacecontext-app/spacecontext-app-media-api/) — The Media API from Space Context — 1 operation(s) for media.
+- [Space Context Openapi.json API](https://apis.io/apis/spacecontext-app/spacecontext-app-openapi-json-api/) — The Openapi.json API from Space Context — 1 operation(s) for openapi.json.
+- [Space Context Scans API](https://apis.io/apis/spacecontext-app/spacecontext-app-scans-api/) — The Scans API from Space Context — 5 operation(s) for scans.
+- [Space Context Search API](https://apis.io/apis/spacecontext-app/spacecontext-app-search-api/) — The Search API from Space Context — 1 operation(s) for search.
+- [Space Context Space Context API](https://apis.io/apis/spacecontext-app/spacecontext-app-space-context-api-api/) — The Space Context API API from Space Context — 1 operation(s) for space context api.
+- [Space Context Spaces API](https://apis.io/apis/spacecontext-app/spacecontext-app-spaces-api/) — The Spaces API from Space Context — 8 operation(s) for spaces.
+- [Space Context Wallet API](https://apis.io/apis/spacecontext-app/spacecontext-app-wallet-api/) — The Wallet API from Space Context — 1 operation(s) for wallet.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Spacecontext App Webhooks](https://apis.io/asyncapis/spacecontext-app/spacecontext-app-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Space Context Agentic Access](https://apis.io/agentic-access/spacecontext-app/spacecontext-app-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [FrameCheck](https://apis.io/schemas/spacecontext-app/spacecontext-app-frame-check/)
+- [Scan](https://apis.io/schemas/spacecontext-app/spacecontext-app-scan/)
+- [ScanCreateRequest](https://apis.io/schemas/spacecontext-app/spacecontext-app-scan-create-request/)
+- [SpaceDiff](https://apis.io/schemas/spacecontext-app/spacecontext-app-space-diff/)
+- [SpaceDocument](https://apis.io/schemas/spacecontext-app/spacecontext-app-space-document/)
+- [Wallet](https://apis.io/schemas/spacecontext-app/spacecontext-app-wallet/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Spacecontext App Context](https://apis.io/jsonld/spacecontext-app/spacecontext-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Space Context API Rules](https://apis.io/rules/spacecontext-app/spacecontext-app-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Space Context Authentication](https://apis.io/security/spacecontext-app/spacecontext-app-authentication/)
+- [Space Context Domain Security](https://apis.io/security/spacecontext-app/spacecontext-app-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Space Context Plans Pricing](https://apis.io/plans/spacecontext-app/spacecontext-app-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://spacecontext.app/)
+- [Documentation](https://spacecontext.app/docs/)
+- [Getting started](https://spacecontext.app/docs/quickstart/)
+- [API reference](https://spacecontext.app/docs/api/reference/)
+- [Pricing](https://spacecontext.app/pricing/)
+- [Support](https://spacecontext.app/support/)
+- [Blog](https://spacecontext.app/blog/)
+- [Terms of service](https://spacecontext.app/terms/)
+- [Privacy policy](https://spacecontext.app/privacy/)
+- [GitHub](https://github.com/finikoslab)
+
+## API Evangelist rating
+
+**Kin Score 61.2** — strong · rubric 0.27.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 65.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 71.4 |
+| Access clarity | 60.0 |
+
+**Agent readiness 60.4** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 21.9** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/spacecontext-app/](https://apis.io/providers/spacecontext-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Space Context: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/spacecontext-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
